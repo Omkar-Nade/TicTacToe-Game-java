@@ -5,7 +5,7 @@ using
 for loop
 while loop 
 do whike loop
-class & object
+classes & object
 constructor
 function/method 
 inheritence
