@@ -1,7 +1,7 @@
 # TicTacToe-Game-java
 TicTacToe Game in java 
 
-android sudio project is remaining
+android sudio project is remaining.
 
 using:-
 for loop,
